@@ -1,0 +1,12 @@
+data sections:
+
+
+Program Info:
+Include Paths: .
+               /usr/local/share/naken_asm/include
+ Instructions: 0
+   Code Bytes: 0
+   Data Bytes: 0
+  Low Address: fffffffe (-2)
+ High Address: 0000 (0)
+
